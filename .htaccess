@@ -1,4 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^www\.teamsicarius\.com$ [NC]
-RewriteRule ^(.*)$ https://teamsicarius.com/$1 [R=301,L]
-CheckSpelling off
