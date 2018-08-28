@@ -230,52 +230,7 @@
 
 
 <!--  Mobile Version -->
-				<div id="MobileWrapper">	
-					<div id="HideMobileModal" class="EllisChild">
-							<div class="mobilemodal-content">
-								<div class="mobilemodal-header">
-									<button id="mobEllisButton" class="mobilebutton">
-										<h1 id=MobileModalTitle>Ellis Collinson</h1>
-									</button>
-								</div>
-
-						</div>
-					</div>
-
-					<div id="HideMobileModal" class="KieranChild">
-							<div class="mobilemodal-content">
-								<div class="mobilemodal-header">
-									<button id="mobKieranButton" class="mobilebutton">
-										<h1 id=MobileModalTitle>Kieran Flitton</h1>
-									</button>
-								</div>
-
-						</div>
-					</div>
-
-					<div id="HideMobileModal" class="RyanChild">
-							<div class="mobilemodal-content">
-								<div class="mobilemodal-header">
-									<button id="mobRyanButton" class="mobilebutton">
-										<h1 id=MobileModalTitle>Ryan Smith</h1>
-									</button>
-								</div>
-
-						</div>
-					</div>
-
-					<div id="HideMobileModal" class="MatthewChild">
-							<div class="mobilemodal-content">
-								<div class="mobilemodal-header">
-									<button id="mobMatthewButton" class="mobilebutton">
-										<h1 id=MobileModalTitle>Matthew Longstaff</h1>
-									</button>
-								</div>
-
-						</div>
-					</div>
-
-					</div>
+			
 
 <!--  End of Mobile Version -->
 						<!-- The Ellis Modal -->
@@ -544,7 +499,7 @@
 									</p>
 
 									<p id="contact_email" name="contact_name" class="contact_label">and my
-										<label for="email">email address</label> is
+										<label for="email">email address</label> is	
 										<input type="email" name="your-email" id="email"placeholder="(your email address)" required>
 									</p>
 
