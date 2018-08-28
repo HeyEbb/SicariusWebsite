@@ -76,35 +76,35 @@
 
 			<!-- Sicarius Logo Top Left -->
 			<div id=small_logo_div>
-				<h1 id=small_logo>Sicarius</h1>
+				<h1 style="font-size: 2em" id=small_logo>Sicarius</h1>
 			</div>
 
 			<!-- Social Links -->
 			<div id=social_icons_container>
 				<a href=https://www.facebook.com/TeamSicarius><img id=social_icon src=images/white_f.png alt="Link to Sicarius Facebook Page"></a>
 				<a href=https://twitter.com/WeAreSicarius><img id=social_icon src=/images/white_t.png alt="Link to Sicarius Twitter Page"></a>
-				<a href=https://www.linkedin.com/company-beta/17895361/><img id=social_icon src=images/white_l.png alt="Link to Sicarius LinkedIn Account"></a>
+				<a href=https://www.linkedin.com/company-beta/17895361><img id=social_icon src=images/white_l.png alt="Link to Sicarius LinkedIn Account"></a>
 			</div>
 
 			<!-- Page Links in Header -->
 			<div id=page_links>
 				<ul class=pause_anim>
-  					<li> <a href="#Welcome">Home</a> </li>
-  					<li> <a href="#Ethos">Who We Are</a> </li>
-  					<li> <a href="#TheTeam">The Team</a> </li>
-  					<li> <a href="#Services">Services</a> </li>
-					<li> <a href="#Contact">Contact</a> </li>
+  					<li> <a style="color:white" href="#Welcome">Home</a> </li>
+  					<li> <a style="color:white" href="#Ethos">Who We Are</a> </li>
+  					<li> <a style="color:white" href="#TheTeam">The Team</a> </li>
+  					<li> <a style="color:white" href="#Services">Services</a> </li>
+					<li> <a style="color:white" href="#Contact">Contact</a> </li>
 				</ul>								
 			</div>
 
 			<!-- Mobile Menu HTML -->
 			<div id="mobile_menu"> 
 				<ul id="mob_menu">
-					<li><a href="#Welcome">Home</a></li>
-					<li><a href="#Ethos">Ethos</a></li>
-					<li><a href="#TheTeam">The Team</a></li>
-					<li><a href="#Services">Services</a></li>
-					<li><a href="#Contact">Contact</a></li>
+					<li><a style="color:white" href="#Welcome">Home</a></li>
+					<li><a style="color:white" href="#Ethos">Ethos</a></li>
+					<li><a style="color:white" href="#TheTeam">The Team</a></li>
+					<li><a style="color:white" href="#Services">Services</a></li>
+					<li><a style="color:white" href="#Contact">Contact</a></li>
 				</ul>
 			</div>
 		</div>
