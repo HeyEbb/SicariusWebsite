@@ -135,7 +135,7 @@
 					<div id="centered_content">
 						<div id="form_description_container">
 							<div id=welcome_anim>
-								<h1 id="client_header_title">Hey!</h1> 
+								<h1 id="client_header_title">HELLO WORLD!!</h1> 
 								<p id=client_header_description>Lets Work Together!</p>
 								<p>Thank you for taking interest in our startup Software Company.</p>
 								<p>Our business has two sides, one of creating unique software solutions for clients and the other being our own games development.</p> 
