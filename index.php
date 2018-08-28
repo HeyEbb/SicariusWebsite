@@ -71,7 +71,7 @@
 
 <body>
 <!-- 
- ========================= 	SEPARATE COMPONENTS  =========================
+ ========================= 	SEPARATE COMPONENTS  ========================
 -->
 		<!-- Fixed Page Header -->
 		<div id="fixed_header">
