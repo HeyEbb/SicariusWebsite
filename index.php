@@ -12,13 +12,11 @@
 	<link rel="stylesheet" href="SlickNav/slicknav.css" />
     <link rel="stylesheet" href="jquery.fullPage.css">
 	<link rel="stylesheet" href="style.css" type="text/css">
+	<link rel="stylesheet" href="bulma.min.css" type="text/css">
 	<link rel="stylesheet" href="animate.css">
 	<script src="/pace/pace.js"></script>
  	<link href="/pace/pace.css" rel="stylesheet" />
 	
-<!-- Bulma Framework  -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
-
 
 <!-- Meta Details -->
 	<meta charset="UTF-8">
