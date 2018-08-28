@@ -71,7 +71,7 @@
 
 <body>
 <!-- 
- ========================= 	SEPARATE COMPONENTS  =========================
+ ========================= 	SEPARATE COMPONENTS  ========================
 -->
 		<!-- Fixed Page Header -->
 		<div id="fixed_header">
@@ -151,29 +151,6 @@
 				</div>
 			</div>	
 		</div>
-
-		<!-- Sicarius Gaming Front Page 	
-		 <div class="slide" data-anchor="Games" style="height:800px;"> 
-			<div class="gradient5">	-->
-				<!-- Control Arrow -->
-		   <!-- <div id=prev_arrow class="fp-controlArrow fp-prev" style="position: relative;"></div> -->
-				<!--Desktop Items -->
-		   <!-- <div id="Dice"></div>
-				<div id="Gamepad"></div>
-				<div id="container_viewport">
-					<div id="centered_content">
-						<div id=text_container>
-							<h1 id="client_header_title">Games Development</h1>
-							<p id=client_header_description>We Make Games... Dont You Know?</p>
-							<p id=client_header_welcome>Sicarius have had an interest in gaming that spans 20+ years. Its time for us to give back to an industry that has given us some much joy over the years </p> 
-							<p id=client_header_welcome>We are currently working on an exciting new project and are looking to crowdfund in the near future.</p>
-							<p id=client_header_welcome>To learn how to get involved or to ask us a question about the gaming side of the business, please visit the contact page.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> -->
-
 	</div>
 
 	<div class="section fp-noscroll" style="transition: all 0ms ease; padding: 0px;">
@@ -200,22 +177,6 @@
 				</div>
 			</div>
 		</div>
-
-		<!-- Tools We Use 
-		<div class="slide" data-anchor="slide4" >
-			<div class="gradient6">	
-				<div id="container_viewport">
-					<div id="centered_content">
-						<div id="tools_description_container">
-							<h1 id="games_title">Development stack.</h1>
-							<p id=games_description>Tools of the trade</p> 
-							<p id=games_p>At Sicarius we use a combination of freeware, licensed software and sometimes our own brains to bring our creations from concept to reality.</p>
-						</div>	
-					</div>
-				</div>
-			</div>
-		</div> -->
-
 	</div>
     
 	<div class="section" style="transition: all 0ms ease; padding: 0px;">
@@ -428,22 +389,6 @@
 				</div>
 			</div>
 		</div>
-
-		<!-- Development Approach 
-		<div class="slide" data-anchor="slide6"> 
-			<div class="gradient7">	
-				<div id="container_viewport">
-					<div id="centered_content">
-						<div id="development_description_container">
-							<h1 id="games_title">Our approach.</h1>
-							<p id=games_description>How we do what we do</p> 
-							<p id=games_p></p>
-						</div>	
-					</div>
-				</div>
-			</div>
-		</div> -->
-
 	</div>
     
 	<div class="section gradient4" style="transition: all 0ms ease;">
@@ -460,21 +405,6 @@
 				</div>
 			</div>
 		</div>
-
-		<!-- Examples / Portfolio 
-		<div class="slide" data-anchor="slide8"> 
-			<div class="gradient8">	
-				<div id="container_viewport">
-					<div id="centered_content">
-						<div id="portfolio_description_container">
-							<h1 id="games_title">Portfolio examples.</h1>
-							<p id=games_description>Our beautiful creations</p> 
-							<p id=games_p></p>
-						</div>	
-					</div>
-				</div>
-			</div>
-		</div> -->
 	</div>
 
 	<div class="section" style="transition: all 0ms ease; padding: 0px;">
@@ -525,20 +455,6 @@
 					</div>	
 				</div>
 			</div>
-
-		<!-- Contact for Games 
-		<div class="slide" data-anchor="slide8" style="background:rgba(229,219,204,1)"> 
-			<div id="container_viewport">
-				<div id="centered_content">
-					<div id="games_contact_description_container">
-						<h1 id="games_title">Contact us.</h1>
-						<p id=games_description>Want to know more about our games?</p> 
-						<p id=games_p></p>
-					</div>	
-				</div>
-			</div>
-		</div> -->
-		
 	</div>
 </div>
 
