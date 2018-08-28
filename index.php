@@ -16,7 +16,7 @@
 	<script src="/pace/pace.js"></script>
  	<link href="/pace/pace.css" rel="stylesheet" />
 	
-<!-- Bulma Framework -->
+<!-- Bulma Framework  -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
 
 
@@ -124,7 +124,7 @@
 -->
 
 <div id="fullpage">			
-	<div class="section" style="height:3000px !important;">
+	<div class="section" style="height:3000px !important; padding: 0px;">
 		<!-- Sicarius Client Front Page -->					
 		<div class="slide" data-anchor="slide1">
 			<div class="gradient1"> 
@@ -218,7 +218,7 @@
 
 	</div>
     
-	<div class="section" style="transition: all 0ms ease;">
+	<div class="section" style="transition: all 0ms ease; padding: 0px;">
 		<!-- The Team -->
 		<div class="slide" data-anchor="slide5">
 			<div class="gradient3">	
@@ -522,7 +522,7 @@
 		</div> -->
 	</div>
 
-	<div class="section" style="transition: all 0ms ease;">
+	<div class="section" style="transition: all 0ms ease; padding: 0px;">
 		<!-- Contact for Clients -->
 		<div class="slide" style="background:rgba(92,75,81,1)"> 
 			<!-- Phone -->
