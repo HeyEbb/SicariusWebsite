@@ -176,7 +176,7 @@
 
 	</div>
 
-	<div class="section fp-noscroll" style="transition: all 0ms ease;">
+	<div class="section fp-noscroll" style="transition: all 0ms ease; padding: 0px;">
 		<!-- Formation / Ethos -->
 		<div class="slide" data-anchor="slide3"> 
 			<div class="gradient2">	
