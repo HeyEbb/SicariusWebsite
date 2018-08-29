@@ -1746,6 +1746,10 @@ small {
           margin-left: 0px;
       }
 
+      #small_logo {
+        margin-top: 10px;
+      }
+
       .slicknav_menu {
           font-size: 20px;
           box-sizing: border-box;
@@ -2026,6 +2030,10 @@ small {
           margin-left: 80px;
           margin-right: auto;
      }
+
+      #small_logo {
+        margin-top: 10px;
+      }
 
       #fixed_header {
           position: fixed;
