@@ -190,24 +190,9 @@
 
 <!--  Mobile Version -->
 			
-<div class="container is-hidden-desktop" display="is-hidden-desktop">
-	<div class="columns is-desktop">
-		<div class="column team_description_mobile_column">
-			Ellis Collinson
-		</div>
-		<div class="column team_description_mobile_column">
-			Ryan Smith
-		</div>
-		<div class="column team_description_mobile_column">
-			Kieran Flitton
-		</div>
-		<div class="column team_description_mobile_column">
-			Matthew Longstaff
-		</div>
-		</div>
-	</div>
 
 <!--  End of Mobile Version -->
+
 						<!-- The Ellis Modal -->
 						<div id="mobEllisModal" class="mobfullmodal">
 							<div class="mobfullmodal-content">
@@ -256,6 +241,7 @@
 							</div>
 						</div>	
 						
+<!--  Fullscreen mode -->
 
 						<!-- The Ellis Modal -->
 						<div id="EllisModal" class="fullmodal">
@@ -443,7 +429,7 @@
 
 									<p id="contact_email" name="contact_name" class="contact_label">and my
 										<label for="email">email address</label> is	
-										<input type="email" name="your-email" id="email"placeholder="(your email address)" required>
+										<input type="text" name="your-email" id="email"placeholder="(your email address)" required>
 									</p>
 
 									<p id="contact_message" name="contact_name" class="contact_label"> I have a
