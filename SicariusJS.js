@@ -154,7 +154,6 @@ console.clear();
 
 
 //On load JavaScript
-
 window.onload = function(){ 
 var emodal = document.getElementById('EllisModal');
 var ebtn = document.getElementById("EllisButton");
