@@ -71,7 +71,6 @@
 
 .slicknav_nav {
   clear: both; 
-  background-color: rgba(74, 74, 74, 0.9);
 }
 
   .slicknav_nav ul {
@@ -152,6 +151,7 @@
   font-size: 0.875em;
   list-style: none;
   overflow: hidden; 
+  background-color: rgba(74, 74, 74, 0.9);
   }
 
   .slicknav_nav ul {
