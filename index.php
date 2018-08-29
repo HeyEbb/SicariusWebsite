@@ -190,6 +190,22 @@
 
 <!--  Mobile Version -->
 			
+<div class="container">
+	<div class="columns">
+		<div class="column">
+			First column
+		</div>
+		<div class="column">
+			Second column
+		</div>
+		<div class="column">
+			Third column
+		</div>
+		<div class="column">
+			Fourth column
+		</div>
+		</div>
+	</div>
 
 <!--  End of Mobile Version -->
 						<!-- The Ellis Modal -->
@@ -240,7 +256,6 @@
 							</div>
 						</div>	
 						
-<!--  Fullscreen mode -->
 
 						<!-- The Ellis Modal -->
 						<div id="EllisModal" class="fullmodal">
