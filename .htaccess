@@ -3,6 +3,3 @@ RewriteCond %{HTTP_HOST} !^www\.TeamSicarius\.com$ [NC]
 RewriteRule ^(.*)$ https://www.TeamSicarius.com/$1 [R=301,L]
 ErrorDocument 404 /404page.html
 
-RewriteCond %{HTTP_HOST} ^(www\.)?build\.teamsicarius\.com$
-RewriteCond %{REQUEST_URI} !^/build
-RewriteRule ^(.*)$ /build/$1 [L]
