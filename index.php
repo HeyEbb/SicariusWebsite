@@ -217,7 +217,7 @@
 
 <!--  End of Mobile Version -->
 
-						<!-- The Ellis Modal -->
+									<!-- The Ellis Modal -->
 						<div id="mobEllisModal" class="mobfullmodal">
 							<div class="mobfullmodal-content">
 								<div class="mobfullmodal-header">
