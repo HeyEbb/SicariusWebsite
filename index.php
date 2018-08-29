@@ -190,7 +190,7 @@
 
 <!--  Mobile Version -->
 			
-<div class="container" display="is-hidden-desktop">
+<div class="container is-hidden-desktop" display="is-hidden-desktop">
 	<div class="columns">
 		<div class="column">
 			First column
