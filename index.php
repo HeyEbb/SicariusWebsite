@@ -286,7 +286,7 @@
 						</div>
 						-->
 					
-						<div id="EllisModal" class="modal">
+						<div id="EllisModal" class="fullmodal">
   							<div class="modal-background"></div>
   								<div class="modal-card">
    									 <header class="modal-card-head">
