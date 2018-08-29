@@ -193,16 +193,16 @@
 <div class="container is-hidden-desktop" display="is-hidden-desktop">
 	<div class="columns is-desktop">
 		<div class="column team_description_mobile_column">
-			First column
+			Ellis Collinson
 		</div>
-		<div class="column">
-			Second column
+		<div class="column team_description_mobile_column">
+			Ryan Smith
 		</div>
-		<div class="column">
-			Third column
+		<div class="column team_description_mobile_column">
+			Kieran Flitton
 		</div>
-		<div class="column">
-			Fourth column
+		<div class="column team_description_mobile_column">
+			Matthew Longstaff
 		</div>
 		</div>
 	</div>
