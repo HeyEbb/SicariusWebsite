@@ -291,10 +291,10 @@
   								<div class="modal-card">
    									 <header class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>
-     								 	<button class="delete" aria-label="close"></button>
+     								 	<button id="Ellisclose" class="delete" aria-label="close"></button>
     								</header>
 									<section class="modal-card-body">
-									<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">This is a test description</p>
+									<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>
 								
 									</section>
   								</div>
