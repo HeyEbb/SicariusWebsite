@@ -191,6 +191,7 @@
 <!--  Mobile Version -->
 			
 <div class="container is-hidden-desktop is-clearfix">
+<div class="notification">
 	<div class="columns is-desktop">
 		<div class="column">
 			<div class="team_description_mobile_column">
@@ -213,6 +214,7 @@
 			</div>
 		</div>
 		</div>
+	</div>
 	</div>
 
 <!--  End of Mobile Version -->
