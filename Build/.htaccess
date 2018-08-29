@@ -1,3 +1,0 @@
-RewriteCond %{HTTP_HOST} ^(www\.)?build\.teamsicarius\.com$
-RewriteCond %{REQUEST_URI} !^/build
-RewriteRule ^(.*)$ /build/$1 [L]
