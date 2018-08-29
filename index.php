@@ -293,8 +293,12 @@
      								 	<p class="modal-card-title">Modal title</p>
      								 	<button class="delete" aria-label="close"></button>
     								</header>
-									<section class="modal-card-body"></section>
-									<img src="images/EllisPolaroid.png" width="100%" height="auto" class="Polaroidimageresize" alt="Polaroid of Ellis Collinson">
+									<section class="modal-card-body">
+
+										<img src="images/EllisPolaroid.png" width="100%" height="auto" class="Polaroidimageresize" alt="Polaroid of Ellis Collinson">
+
+									</section>
+									
     								<footer class="modal-card-foot">
       									<button class="button is-success">Save changes</button>
       									<button class="button">Cancel</button>
