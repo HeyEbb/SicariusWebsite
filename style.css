@@ -2124,6 +2124,10 @@ small {
         {
             padding-top: 27vh;
         }
+
+        #small_logo {
+            margin-top: 10px;
+          }
       
   }
 
@@ -2189,6 +2193,9 @@ small {
           top: 50px;
     }
 
+    #small_logo {
+        margin-top: 10px;
+      }
 
 }
 
