@@ -156,11 +156,13 @@ console.clear();
 //On load JavaScript
 window.onload = function(){ 
 var emodal = document.getElementById('EllisModal');
+var titles = document.getElementById('title_wrapper');
 var ebtn = document.getElementById("EllisButton");
 var span = document.getElementById("Ellisclose");
 
 ebtn.onclick = function() {
     emodal.style.display = "block";
+    titles.style.display = "none";
 }
 
 span.onclick = function() {
