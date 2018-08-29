@@ -460,6 +460,8 @@ ul {
 /* The team mobile column */
 .team_description_mobile_column{
     background-color: #d6655a;
+    border-radius: 15px;
+    background-clip: content-box;
 }
 
 /* Video */
