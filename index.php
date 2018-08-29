@@ -290,11 +290,11 @@
   							<div class="modal-background"></div>
   								<div class="modal-card">
    									 <header class="modal-card-head">
-     								 	<p class="modal-card-title">Ellis Collinson</p>
+     								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>
      								 	<button class="delete" aria-label="close"></button>
     								</header>
 									<section class="modal-card-body">
-
+									<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">This is a test description</p>
 								
 									</section>
   								</div>
