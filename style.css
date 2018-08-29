@@ -120,12 +120,6 @@ height:3000px;
 
 /* Desktop Items */
 
-html,body{
-    -webkit-overflow-scrolling : touch !important;
-    overflow: auto !important;
-    height: 100% !important;
-}
-
 #iPhone_container{
     height:500px;
     width:291px;
