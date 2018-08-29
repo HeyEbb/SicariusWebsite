@@ -294,7 +294,7 @@
      								 	<button id="Ellisclose" class="delete" aria-label="close"></button>
 									</header>
 									<section style="padding:10px;" class="modal-card-body">
-										<img style="height:400px" src="images/EllisPolaroid.png">
+										<img style="height:400px; display: block; margin-left: auto; margin-right: auto;" src="images/EllisPolaroid.png">
 									</section>
 									<section class="modal-card-body">
 										<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>
