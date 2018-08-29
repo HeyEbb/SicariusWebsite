@@ -190,7 +190,7 @@
 
 <!--  Mobile Version -->
 			
-<div class="container is-hidden-desktop" display="is-hidden-desktop">
+<div class="container is-hidden-desktop is-clearfix">
 	<div class="columns is-desktop">
 		<div class="column team_description_mobile_column">
 			Ellis Collinson
