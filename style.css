@@ -457,6 +457,11 @@ ul {
     max-width: 500px;
 }
 
+/* The team mobile column */
+.team_description_mobile_column{
+    background-color: #d6655a;
+}
+
 /* Video */
 #video_description_container{
     padding:30px;

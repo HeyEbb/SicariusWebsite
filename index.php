@@ -192,7 +192,7 @@
 			
 <div class="container is-hidden-desktop" display="is-hidden-desktop">
 	<div class="columns is-desktop">
-		<div class="column">
+		<div class="column team_description_mobile_column">
 			First column
 		</div>
 		<div class="column">
