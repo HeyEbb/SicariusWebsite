@@ -7,18 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bulma.min.css" type="text/css">
 </head>
+<style>
+        .hero {
+        background: black url(images/SicariusBackground.png) center / cover;
+    }
+    
+    @media (max-width: 1024px) { .hero { background: black url(images/hero-2.jpg) center / cover; } }
+    @media (max-width:  768px) { .hero { background: black url(images/hero-3.jpg) center / cover; } }
+        
+</style>
+
 <body>
+<!-- .hero -->
+<section class="hero is-fullheight">
 
-        <section class="hero is-fullheight has-background-black">
-                <div class="hero-body">
-                    <div class="container">
-                        <figure class="image center">
-                            <img src="images/SicariusBackground.png" style="max-width: 512px;">
-                        </figure>
-                    </div>
-                </div>
-            </section>
-
+    </section>
+<!-- /.hero -->
 
 </body>
 </html>
