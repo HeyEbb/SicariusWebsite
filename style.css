@@ -750,7 +750,7 @@ a:focus::before, a:hover::before, a:focus::after, a:hover::after {
     color: #5a5a5a !important;
     text-align: center;
     font-family: Roboto;
-    padding: 50px;
+    padding: 20px;
     margin-top: -20px;
     font-size: 15px;
 }
