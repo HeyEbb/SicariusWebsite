@@ -337,7 +337,10 @@
 								</div>
 							</div>
 						</div>
+
 						<!-- The Modal End-->
+
+						<!-- Polaroid Starts here-->
 
 					<div id="PolaroidTabLeft">
 						<div id="PolaroidTabUserTopCont">
@@ -409,6 +412,8 @@
 						</div>
 
 					</div>
+
+					<!-- Polaroid Ends here-->
 				</div>
 			</div>
 		</div>
