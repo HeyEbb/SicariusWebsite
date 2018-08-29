@@ -218,16 +218,22 @@
 <!--  End of Mobile Version -->
 
 									<!-- The Ellis Modal -->
-						<div id="mobEllisModal" class="mobfullmodal">
-							<div class="mobfullmodal-content">
-								<div class="mobfullmodal-header">
-									<span class="mobfullclose" id="mobEllisclose">&times;</span>
-								</div>
-								<div class="mobfullmodal-body">
-									<h1 id=mobmodaldescription>I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</h1>
-								</div>
-							</div>
-						</div>	
+									<div class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Modal title</p>
+      <button class="delete" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <!-- Content ... -->
+    </section>
+    <footer class="modal-card-foot">
+      <button class="button is-success">Save changes</button>
+      <button class="button">Cancel</button>
+    </footer>
+  </div>
+</div>
 
 												<!-- The Kieran Modal -->
 						<div id="mobKieranModal" class="mobfullmodal">
