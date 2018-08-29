@@ -253,9 +253,9 @@ height:3000px;
 #small_logo{
     float: left;
     margin-left: 20px;
-    margin-top: 10px;
+    margin-top: 15px;
     font-family: 'Adam';
-    color:#fff;
+    color: #fff;
 }
 
 #social_icon{

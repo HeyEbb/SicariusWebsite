@@ -76,7 +76,7 @@
 
 			<!-- Sicarius Logo Top Left -->
 			<div id=small_logo_div>
-				<h1 style="font-size: 2em" id=small_logo>Sicarius</h1>
+				<h1 style="font-size: 1.7em" id=small_logo>Sicarius</h1>
 			</div>
 
 			<!-- Social Links -->
