@@ -294,7 +294,7 @@
      								 	<button id="Ellisclose" class="delete" aria-label="close"></button>
     								</header>
 									<section class="modal-card-body">
-									<p id="ModalDescription" class="modal-card-title">This is a test description</p>
+									<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>
 								
 									</section>
   								</div>
