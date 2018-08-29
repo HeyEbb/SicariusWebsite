@@ -190,7 +190,7 @@
 
 <!--  Mobile Version -->
 			
-<div class="container is-hidden-desktop is-fluid">
+<div class="container is-hidden-desktop team_description_bulma_override">
 	<div class="columns is-desktop">
 		<div class="column">
 			<div class="team_description_mobile_column">

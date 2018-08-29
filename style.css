@@ -465,6 +465,11 @@ ul {
 
 }
 
+/* bulma-override */
+.team_description_bulma_override{
+    width: 90%;
+}
+
 /* Video */
 #video_description_container{
     padding:30px;
