@@ -191,7 +191,7 @@
 <!--  Mobile Version -->
 			
 <div class="container is-hidden-desktop" display="is-hidden-desktop">
-	<div class="columns">
+	<div class="columns is-desktop">
 		<div class="column">
 			First column
 		</div>
