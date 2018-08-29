@@ -153,7 +153,7 @@
   list-style: none;
   overflow: hidden; 
   background-color: rgba(74, 74, 74, 0.7);
-  border-radius: 0px 5px 5px 0px;
+  border-radius: 5px 5px 5px 5px;
   }
 
   .slicknav_nav ul {
