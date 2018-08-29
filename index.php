@@ -291,7 +291,7 @@
   								<div class="modal-card">
    									 <header class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>
-     								 	<button class="delete" aria-label="close"></button>
+     								 	<button id="Ellisclose" class="delete" aria-label="close"></button>
     								</header>
 									<section class="modal-card-body">
 									<p id="ModalDescription" class="modal-card-title">This is a test description</p>
