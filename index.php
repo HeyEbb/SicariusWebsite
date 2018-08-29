@@ -295,9 +295,14 @@
     								</header>
 									<section class="modal-card-body">
 									<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>
-								
 									</section>
-  								</div>
+									<section class="modal-card-body">
+									<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>
+									</section>
+									<section class="modal-card-body">
+										<img src="images/EllisPolaroid.png">
+									</section>
+								  </div>
 						</div>
 					
 
