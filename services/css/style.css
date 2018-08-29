@@ -1,0 +1,15 @@
+/* 
+* ========================= IMPORTS =============================
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+@font-face {
+   font-family: AdamLight; 
+   src: url('../Fonts/PRO LIGHT.otf');
+} 
+
+@font-face {
+   font-family: Adam; 
+   src: url('../Fonts/ADAM-CG PRO.otf');
+} 
