@@ -462,7 +462,8 @@ ul {
     background-color: #d6655a;
     border-radius: 15px;
     padding: 15px;
-
+    text-align: center;
+    font-family: 'adam';
 }
 
 /* bulma-override */
