@@ -180,6 +180,7 @@ window.onclick = function(event) {
 var kmodal = document.getElementById('KieranModal');
 var kbtn = document.getElementById("KieranButton");
 var span = document.getElementById("Kieranclose");
+var span = document.getElementById("KieranClose");
 
 kbtn.onclick = function() {
     kmodal.style.display = "block";
@@ -200,6 +201,7 @@ window.onclick = function(event) {
 var rmodal = document.getElementById('RyanModal');
 var rbtn = document.getElementById("RyanButton");
 var span = document.getElementById("Ryanclose");
+var span = document.getElementById("RyanClose");
 
 rbtn.onclick = function() {
     rmodal.style.display = "block";
@@ -221,6 +223,7 @@ window.onclick = function(event) {
 var modal = document.getElementById('MatthewModal');
 var btn = document.getElementById("MatthewButton");
 var span = document.getElementById("Matthewclose");
+var span = document.getElementById("MatthewClose");
 
 btn.onclick = function() {
     modal.style.display = "block";
