@@ -301,10 +301,11 @@
 										<br>
 										<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>		
 									</section>
-									<footer class="modal-card-foot">
-										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; width: 100%;" class="modal-card-title">Social Links</p>
-										<p id="ModalDescription" style="color: #5a5a5a !important; width: 100%;">links go here</p>
-									</footer>
+									<section class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em;" class="modal-card-title">Social Links</p>
+										<br>
+										<p id="ModalDescription" class="modal-card-title">Links go here...</p>		
+									</section>
 								  </div>
 						</div>
 					
