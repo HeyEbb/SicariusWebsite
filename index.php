@@ -298,10 +298,11 @@
 									</section>
 									<section class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Role</p>
+										<br>
 										<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>		
 									</section>
 									<footer class="modal-card-foot">
-										<p id="ModalDescription" style="color: #5a5a5a !important;">links go here</p>
+										<p id="ModalDescription" style="color: #5a5a5a !important; text-align: center;">links go here</p>
 									</footer>
 								  </div>
 						</div>
