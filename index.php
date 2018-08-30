@@ -306,7 +306,9 @@
 									<section class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em;" class="modal-card-title">Social Links</p>
 										<br>
-										<p id="ModalDescription" class="modal-card-title">Links go here...</p>		
+										<a href=https://www.linkedin.com/in/ellis-collinson-b28aa0129><img id=social_icon src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+										<a href=https://github.com/HeyEbb><img id=social_icon src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+										<p id="ModalDescription" class="modal-card-title">Ellis.Collinson@TeamSicarius.com</p>		
 									</section>
 								  </div>
 						</div>
