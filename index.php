@@ -305,10 +305,10 @@
 									</section>
 									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
-										<p>
+										
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ellis-collinson-b28aa0129><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
 											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
-										</p>
+										
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Ellis.Collinson@TeamSicarius.com</p>		
 									</section>
 								  </div>
