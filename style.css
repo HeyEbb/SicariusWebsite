@@ -314,6 +314,12 @@ ul {
 
 /* Client Main (Meet the Team */
 /* Medium - Large Size Screens */
+#EllisClose{
+    position: absolute;
+    right: 20px;
+    top: 20px;    
+}
+
 #PolaroidContainer{
     height: 320px;
     width: 100%;
