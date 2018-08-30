@@ -291,9 +291,11 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>									
-     								 	<button id="Ellisclose" class="delete" aria-label="close"></button>
-										<p id="ModalDescription" class="modal-card-title">Creative Director</p>
+     								 	<button id="Ellisclose" class="delete" aria-label="close"></button>									
 									</header>
+									<section style="padding:0px;" class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1.2em;" class="modal-card-title">Creative Director</p>
+									</section>
 									<section style="padding:0px;" class="modal-card-body">
 										<img style="height:270px; display: block; margin-left: auto; margin-right: auto;" src="images/RyanModal.png">
 									</section>
