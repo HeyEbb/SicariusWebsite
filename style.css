@@ -751,6 +751,8 @@ a:focus::before, a:hover::before, a:focus::after, a:hover::after {
     text-align: center;
     font-family: Roboto;
     padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: -20px;
     font-size: 15px;
 }
