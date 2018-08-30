@@ -304,10 +304,11 @@
 										<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>		
 									</section>
 									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
-										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em;" class="modal-card-title">Social Links</p>
-										<br>
-										<a href=https://www.linkedin.com/in/ellis-collinson-b28aa0129><img src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-										<a href=https://github.com/HeyEbb><img src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p>
+											<a href=https://www.linkedin.com/in/ellis-collinson-b28aa0129><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a href=https://github.com/HeyEbb><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+										</p>
 										<p id="ModalDescription" class="modal-card-title">Ellis.Collinson@TeamSicarius.com</p>		
 									</section>
 								  </div>
