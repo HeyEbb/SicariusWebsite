@@ -158,7 +158,7 @@ window.onload = function(){
 var emodal = document.getElementById('EllisModal');
 var titles = document.getElementById('title_wrapper');
 var ebtn = document.getElementById("EllisButton");
-var span = document.getElementById("Ellisclose");
+var span = document.getElementById("EllisClose");
 
 ebtn.onclick = function() {
     emodal.style.display = "block";
