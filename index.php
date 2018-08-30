@@ -289,7 +289,7 @@
 						<div id="EllisModal" class="fullmodal">
   							<div class="fullmodal-content"></div>
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
-   									 <header class="modal-card-head">
+   									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>									
      								 	<button id="Ellisclose" class="delete" aria-label="close"></button><br />
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em;" class="modal-card-title">Creative Director</p>									
