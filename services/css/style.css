@@ -13,3 +13,7 @@
    font-family: Adam; 
    src: url('../Fonts/ADAM-CG PRO.otf');
 } 
+
+.bulmaHeaderOverrideArrow {
+    border-color: white !important;
+}
