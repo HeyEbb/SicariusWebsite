@@ -291,7 +291,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>									
-     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+     								 	<button id="EllisClose" class="Close" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Creative Director</p>									
 									</header>
 									
@@ -338,7 +338,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Kieran Flitton</p>									
-     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+     								 	<button id="KieranClose" class="Close" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Project Lead</p>									
 									</header>
 									
@@ -387,7 +387,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ryan Smith</p>									
-     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+     								 	<button id="RyanClose" class="Close" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Software Developer</p>									
 									</header>
 									
@@ -434,7 +434,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Matthew Longstaff</p>									
-     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+     								 	<button id="MatthewClose" class="Close" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">System Architect</p>									
 									</header>
 									

@@ -314,7 +314,7 @@ ul {
 
 /* Client Main (Meet the Team */
 /* Medium - Large Size Screens */
-#EllisClose{
+.Close{
     position: absolute;
     right: 20px;
     top: 20px;    
