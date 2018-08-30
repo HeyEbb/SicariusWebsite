@@ -10,7 +10,11 @@
 </head>
 <style>
         .hero {
-        background: black url(images/SicariusBackground.png) center / cover;
+            background: rgb(214,101,90); /* Old browsers */
+            background: -moz-linear-gradient(-45deg, rgba(214,101,90,1) 0%, rgba(243,181,98,1) 99%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(-45deg, rgba(214,101,90,1) 0%,rgba(243,181,98,1) 99%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(135deg, rgba(214,101,90,1) 0%,rgba(243,181,98,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6655a', endColorstr='#f3b562',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     }
             
 </style>
@@ -24,7 +28,7 @@
         <nav class="navbar is-transparent">
                 <div class="navbar-brand">
                   <a class="navbar-item" href="https://TeamSicarius.com">
-                    <img src="images/Sicarius_Software_Development_White.png" alt="Sicarius Software Development" width="112" height="28">
+                    <img src="images/Banner.png" alt="Sicarius Software Development" width="112" height="28">
                   </a>
                   <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
                     <span></span>
@@ -39,7 +43,7 @@
                       Home
                     </a>
                     <div class="navbar-item has-dropdown is-hoverable">
-                      <a class="navbar-link" href="/documentation/overview/start/">
+                      <a class="navbar-link bulmaHeaderOverrideArrow" href="/documentation/overview/start/">
                         Services
                       </a>
                       <div class="navbar-dropdown is-boxed">
