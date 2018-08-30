@@ -184,6 +184,7 @@ var span = document.getElementById("KieranClose");
 
 kbtn.onclick = function() {
     kmodal.style.display = "block";
+    titles.style.display = "none";
 }
 
 span.onclick = function() {
@@ -205,6 +206,7 @@ var span = document.getElementById("RyanClose");
 
 rbtn.onclick = function() {
     rmodal.style.display = "block";
+    titles.style.display = "none";
 }
 
 span.onclick = function() {
@@ -227,6 +229,7 @@ var span = document.getElementById("MatthewClose");
 
 btn.onclick = function() {
     modal.style.display = "block";
+    titles.style.display = "none";
 }
 
 span.onclick = function() {
