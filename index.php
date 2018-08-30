@@ -314,7 +314,7 @@
 								  </div>
 						</div>
 					
-
+						<!--
 						<div id="KieranModal" class="fullmodal">
 							<div class="fullmodal-content">
 								<div class="fullmodal-header">
@@ -331,7 +331,37 @@
 								</div>
 							</div>
 						</div>
+						-->
 
+						<div id="KieranModal" class="fullmodal">
+  							<div class="fullmodal-content"></div>
+  								<div style="width: 400px; border-radius: 5px;" class="modal-card">
+   									 <header style="display: inline;" class="modal-card-head">
+     								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Kieran Flitton</p>									
+     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Project Lead</p>									
+									</header>
+									
+									<section style="padding:0px;" class="modal-card-body">
+										<img style="height:270px; display: block; margin-left: auto; margin-right: auto;" src="images/RyanModal.png">
+									</section>
+									<section class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em;" class="modal-card-title">Role</p>
+										<br/>
+										<p id="ModalDescription" class="modal-card-title">As Project Lead on Sicarius' solutions, I endeavour to ensure my team is equipped with the proper motivation and direction, every single day. Software development can be very intense technically, but I strive to ensure that work and passion go hand in hand</p>		
+									</section>
+									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="padding-bottom: 5px;">
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/kieran-flitton-49869612b><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+										</p>
+										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Kieran.Flitton@TeamSicarius.com</p>		
+									</section>
+								  </div>
+						</div>
+
+						<!--
 						<div id="RyanModal" class="fullmodal">
 							<div class="fullmodal-content">
 								<div class="fullmodal-header">
@@ -350,7 +380,37 @@
 								</div>
 							</div>
 						</div>
+						-->
 
+						<div id="RyanModal" class="fullmodal">
+  							<div class="fullmodal-content"></div>
+  								<div style="width: 400px; border-radius: 5px;" class="modal-card">
+   									 <header style="display: inline;" class="modal-card-head">
+     								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ryan Smith</p>									
+     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Software Developer</p>									
+									</header>
+									
+									<section style="padding:0px;" class="modal-card-body">
+										<img style="height:270px; display: block; margin-left: auto; margin-right: auto;" src="images/RyanModal.png">
+									</section>
+									<section class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em;" class="modal-card-title">Role</p>
+										<br/>
+										<p id="ModalDescription" class="modal-card-title">I am a software developer at heart, but more specifically I work on the implementation of front-end systems and UX design, sitting between our front-end and back-end teams</p>		
+									</section>
+									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="padding-bottom: 5px;">
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ryan-smith-049194b2><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+										</p>
+										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Ryan.Smith@TeamSicarius.com</p>		
+									</section>
+								  </div>
+						</div>
+
+						<!--
 						<div id="MatthewModal" class="fullmodal">
 							<div class="fullmodal-content">
 								<div class="fullmodal-header">
@@ -367,6 +427,37 @@
 								</div>
 							</div>
 						</div>
+						-->
+
+						<div id="MatthewModal" class="fullmodal">
+  							<div class="fullmodal-content"></div>
+  								<div style="width: 400px; border-radius: 5px;" class="modal-card">
+   									 <header style="display: inline;" class="modal-card-head">
+     								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Matthew Longstaff</p>									
+     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">System Architect</p>									
+									</header>
+									
+									<section style="padding:0px;" class="modal-card-body">
+										<img style="height:270px; display: block; margin-left: auto; margin-right: auto;" src="images/RyanModal.png">
+									</section>
+									<section class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em;" class="modal-card-title">Role</p>
+										<br/>
+										<p id="ModalDescription" class="modal-card-title">I am the System Architect of Sicarius and strive to create clever and efficient systems to suit our client's needs. I have a passion for designing and developing complex systems, and feel at home when designing the structure of data</p>		
+									</section>
+									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="padding-bottom: 5px;">
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/matthew-longstaff-9b769312b><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+										</p>
+										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Matthew.Longstaff@TeamSicarius.com</p>		
+									</section>
+								  </div>
+						</div>
+
+						
 
 						<!-- The Modal End-->
 
