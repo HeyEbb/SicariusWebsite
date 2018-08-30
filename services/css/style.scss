@@ -2,6 +2,8 @@
 * ========================= IMPORTS =============================
 */
 
+@import "compass/css3";
+
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 @font-face {
@@ -23,6 +25,9 @@
     margin-top: -.375em;
     right: 1.125em;
 }
+
+$color1:teal;
+$cloudColor:#ecf0f1;
 
 #bigHalfCircle path {
 	fill: darken($color1, 7%);
