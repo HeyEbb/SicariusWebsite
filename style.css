@@ -314,7 +314,25 @@ ul {
 
 /* Client Main (Meet the Team */
 /* Medium - Large Size Screens */
-.Close{
+#EllisClose{
+    position: absolute;
+    right: 20px;
+    top: 20px;    
+}
+
+#KieranClose{
+    position: absolute;
+    right: 20px;
+    top: 20px;    
+}
+
+#RyanClose{
+    position: absolute;
+    right: 20px;
+    top: 20px;    
+}
+
+#MatthewClose{
     position: absolute;
     right: 20px;
     top: 20px;    
