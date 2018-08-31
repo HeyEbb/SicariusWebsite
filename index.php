@@ -304,7 +304,7 @@
 										<p id="ModalDescription" class="modal-card-title">I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</p>		
 									</section>
 									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
-										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 10px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ellis-collinson-b28aa0129 target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
 											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
@@ -351,7 +351,7 @@
 										<p id="ModalDescription" class="modal-card-title">As Project Lead on Sicarius' solutions, I endeavour to ensure my team is equipped with the proper motivation and direction, every single day. Software development can be very intense technically, but I strive to ensure that work and passion go hand in hand</p>		
 									</section>
 									<section style="display: inline-grid; text-align: center; "class="modal-card-body">
-										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 10px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/kieran-flitton-49869612b target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
 											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
@@ -400,7 +400,7 @@
 										<p id="ModalDescription" class="modal-card-title">I am a software developer at heart, but more specifically I work on the implementation of front-end systems and UX design, sitting between our front-end and back-end teams</p>		
 									</section>
 									<section style="display: inline-grid; text-align: center; "class="modal-card-body">
-										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 10px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ryan-smith-049194b2 target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
 											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
@@ -447,7 +447,7 @@
 										<p id="ModalDescription" class="modal-card-title">I am the System Architect of Sicarius and strive to create clever and efficient systems to suit our client's needs. I have a passion for designing and developing complex systems, and feel at home when designing the structure of data</p>		
 									</section>
 									<section style="display: inline-grid; text-align: center;"class="modal-card-body">
-										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
+										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 10px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/matthew-longstaff-9b769312b target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
 											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
