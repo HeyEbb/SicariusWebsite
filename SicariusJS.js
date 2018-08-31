@@ -239,9 +239,9 @@ window.onclick = function(event) {
     }
 }
 
-//Mobile Modal 
+//Mobile Modals
+//Ellis 
 var mobebtn = document.getElementById("mobEllisButton");
-
 
 mobebtn.onclick = function() {
     emodal.style.display = "block";
