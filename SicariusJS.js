@@ -163,15 +163,18 @@ var span = document.getElementById("EllisClose");
 ebtn.onclick = function() {
     emodal.style.display = "block";
     titles.style.display = "none";
+    fullpage_api.setAllowScrolling(false);
 }
 
 span.onclick = function() {
     emodal.style.display = "none";
+    fullpage_api.setAllowScrolling(true);
 }
 
 window.onclick = function(event) {
     if (event.target == emodal) {
         emodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -184,15 +187,18 @@ var span = document.getElementById("KieranClose");
 kbtn.onclick = function() {
     kmodal.style.display = "block";
     titles.style.display = "none";
+    fullpage_api.setAllowScrolling(false);
 }
 
 span.onclick = function() {
     kmodal.style.display = "none";
+    fullpage_api.setAllowScrolling(true);
 }
 
 window.onclick = function(event) {
     if (event.target == modal) {
         kmodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -205,15 +211,18 @@ var span = document.getElementById("RyanClose");
 rbtn.onclick = function() {
     rmodal.style.display = "block";
     titles.style.display = "none";
+    fullpage_api.setAllowScrolling(false);
 }
 
 span.onclick = function() {
     rmodal.style.display = "none";
+    fullpage_api.setAllowScrolling(true);
 }
 
 window.onclick = function(event) {
     if (event.target == modal) {
         rmodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -227,15 +236,18 @@ var span = document.getElementById("MatthewClose");
 btn.onclick = function() {
     modal.style.display = "block";
     titles.style.display = "none";
+    fullpage_api.setAllowScrolling(false);
 }
 
 span.onclick = function() {
     modal.style.display = "none";
+    fullpage_api.setAllowScrolling(true);
 }
 
 window.onclick = function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -245,11 +257,13 @@ var mobebtn = document.getElementById("mobEllisButton");
 
 mobebtn.onclick = function() {
     emodal.style.display = "block";
+    fullpage_api.setAllowScrolling(false);
 }
 
 window.onclick = function(event) {
     if (event.target == mobemodal) {
         emodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -258,11 +272,13 @@ var mobkbtn = document.getElementById("mobKieranButton");
 
 mobkbtn.onclick = function() {
     kmodal.style.display = "block";
+    fullpage_api.setAllowScrolling(false);
 }
 
 window.onclick = function(event) {
     if (event.target == modal) {
         mobkmodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -272,11 +288,13 @@ var mobrbtn = document.getElementById("mobRyanButton");
 
 mobrbtn.onclick = function() {
     rmodal.style.display = "block";
+    fullpage_api.setAllowScrolling(false);
 }
 
 window.onclick = function(event) {
     if (event.target == modal) {
         mobrmodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
@@ -285,11 +303,13 @@ var mobbtn = document.getElementById("mobMatthewButton");
 
 mobbtn.onclick = function() {
     modal.style.display = "block";
+    fullpage_api.setAllowScrolling(false);
 }
 
 window.onclick = function(event) {
     if (event.target == modal) {
         mobmodal.style.display = "none";
+        fullpage_api.setAllowScrolling(true);
     }
 }
 
