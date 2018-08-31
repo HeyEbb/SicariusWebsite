@@ -240,37 +240,24 @@ window.onclick = function(event) {
 }
 
 //Mobile Modal 
-
-var mobemodal = document.getElementById('mobEllisModal');
 var mobebtn = document.getElementById("mobEllisButton");
-var mobspan = document.getElementById("mobEllisclose");
+
 
 mobebtn.onclick = function() {
-    mobemodal.style.display = "block";
-}
-
-mobspan.onclick = function() {
-    mobemodal.style.display = "none";
+    emodal.style.display = "block";
 }
 
 window.onclick = function(event) {
     if (event.target == mobemodal) {
-        mobemodal.style.display = "none";
+        emodal.style.display = "none";
     }
 }
 
 //Kieran
-
-var mobkmodal = document.getElementById('mobKieranModal');
 var mobkbtn = document.getElementById("mobKieranButton");
-var mobspan = document.getElementById("mobKieranclose");
 
 mobkbtn.onclick = function() {
-    mobkmodal.style.display = "block";
-}
-
-mobspan.onclick = function() {
-    mobkmodal.style.display = "none";
+    kmodal.style.display = "block";
 }
 
 window.onclick = function(event) {
@@ -280,17 +267,11 @@ window.onclick = function(event) {
 }
 
 //Ryan
-
-var mobrmodal = document.getElementById('mobRyanModal');
 var mobrbtn = document.getElementById("mobRyanButton");
-var mobspan = document.getElementById("mobRyanclose");
+
 
 mobrbtn.onclick = function() {
-    mobrmodal.style.display = "block";
-}
-
-mobspan.onclick = function() {
-    mobrmodal.style.display = "none";
+    rmodal.style.display = "block";
 }
 
 window.onclick = function(event) {
@@ -300,17 +281,10 @@ window.onclick = function(event) {
 }
 
 //Matthew 
-
-var mobmodal = document.getElementById('mobMatthewModal');
 var mobbtn = document.getElementById("mobMatthewButton");
-var mobspan = document.getElementById("mobMatthewclose");
 
 mobbtn.onclick = function() {
-    mobmodal.style.display = "block";
-}
-
-mobspan.onclick = function() {
-    mobmodal.style.display = "none";
+    modal.style.display = "block";
 }
 
 window.onclick = function(event) {

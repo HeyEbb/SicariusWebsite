@@ -193,22 +193,22 @@
 <div class="container is-hidden-desktop team_description_bulma_override">
 	<div class="columns is-desktop">
 		<div class="column">
-			<div class="team_description_mobile_column">
+			<div id= "mobEllisButton" class="team_description_mobile_column">
 			Ellis Collinson
 			</div>
 		</div>
 		<div class="column">
-		<div class="team_description_mobile_column">
+		<div id="mobRyanButton" class="team_description_mobile_column">
 			Ryan Smith
 			</div>
 		</div>
 		<div class="column">
-		<div class="team_description_mobile_column">
+		<div id="mobKieranButton" class="team_description_mobile_column">
 			Kieran Flitton
 			</div>
 		</div>
 		<div class="column">
-		<div class="team_description_mobile_column">
+		<div id="mobMatthewButton" class="team_description_mobile_column">
 			Matthew Longstaff
 			</div>
 		</div>
@@ -216,54 +216,6 @@
 	</div>
 
 <!--  End of Mobile Version -->
-
-									<!-- The Ellis Modal -->
-						<div id="mobEllisModal" class="mobfullmodal">
-							<div class="mobfullmodal-content">
-								<div class="mobfullmodal-header">
-									<span class="mobfullclose" id="mobEllisclose">&times;</span>
-								</div>
-								<div class="mobfullmodal-body">
-									<h1 id=mobmodaldescription>I'm a Front-end developer and the Lead Graphic Designer for Sicarius. I've designed all of Sicarius' assets and I confirm that every design I produce is complete to a perfect standard</h1>
-								</div>
-							</div>
-						</div>	
-
-												<!-- The Kieran Modal -->
-						<div id="mobKieranModal" class="mobfullmodal">
-							<div class="mobfullmodal-content">
-								<div class="mobfullmodal-header">
-									<span class="mobfullclose" id="mobKieranclose">&times;</span>
-								</div>
-								<div class="mobfullmodal-body">
-									<h1 id=mobmodaldescription>As Project Lead on Sicarius' solutions, I endeavour to ensure my team is equipped with the proper motivation and direction, every single day. Software development can be very intense technically, but I strive to ensure that work and passion go hand in hand</h1>
-								</div>
-							</div>
-						</div>	
-
-												<!-- The Ryan Modal -->
-						<div id="mobRyanModal" class="mobfullmodal">
-							<div class="mobfullmodal-content">
-								<div class="mobfullmodal-header">
-									<span class="mobfullclose" id="mobRyanclose">&times;</span>
-								</div>
-								<div class="mobfullmodal-body">
-									<h1 id=mobmodaldescription>I am the System Architect of Sicarius and strive to create clever and efficient systems to suit our client's needs. I have a passion for designing and developing complex systems, and feel at home when designing the structure of data.</h1>
-								</div>
-							</div>
-						</div>	
-
-												<!-- The Matthew Modal -->
-						<div id="mobMatthewModal" class="mobfullmodal">
-							<div class="mobfullmodal-content">
-								<div class="mobfullmodal-header">
-									<span class="mobfullclose" id="mobMatthewclose">&times;</span>
-								</div>
-								<div class="mobfullmodal-body">
-									<h1 id=mobmodaldescription>I am the System Architect of Sicarius and strive to create clever and efficient systems to suit our client's needs. I have a passion for designing and developing complex systems, and feel at home when designing the structure of data.</h1>
-								</div>
-							</div>
-						</div>	
 						
 <!--  Fullscreen mode -->
 
