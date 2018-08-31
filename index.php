@@ -354,7 +354,7 @@
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 10px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/kieran-flitton-49869612b target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href="https://www.facebook.com/profile.php?id=100013636392372" target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/facebook.png alt="Link to Sicarius Twitter Page"></a>
 										</p>
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Kieran.Flitton@TeamSicarius.com</p>		
 									</section>
@@ -450,7 +450,7 @@
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 10px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
 											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/matthew-longstaff-9b769312b target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://twitter.com/Sicarius_Matt target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/twitter.png alt="Link to Sicarius Twitter Page"></a>
 										</p>
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Matthew.Longstaff@TeamSicarius.com</p>		
 									</section>
