@@ -291,7 +291,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ellis Collinson</p>									
-     								 	<button id="EllisClose" class="delete" aria-label="close"></button>
+     								 	<button style="background-color= rgba(10, 10, 10, 0);" id="EllisClose" class="delete" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Creative Director</p>									
 									</header>
 									
@@ -306,8 +306,8 @@
 									<section style="display: inline-grid; text-align: center; padding-top: 0px;"class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
-											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ellis-collinson-b28aa0129><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ellis-collinson-b28aa0129 target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
 										</p>
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Ellis.Collinson@TeamSicarius.com</p>		
 									</section>
@@ -338,7 +338,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Kieran Flitton</p>									
-     								 	<button id="KieranClose" class="delete" aria-label="close"></button>
+     								 	<button style="background-color= rgba(10, 10, 10, 0);" id="KieranClose" class="delete" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Project Lead</p>									
 									</header>
 									
@@ -353,8 +353,8 @@
 									<section style="display: inline-grid; text-align: center; padding-top: 0px;"class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
-											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/kieran-flitton-49869612b><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/kieran-flitton-49869612b target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/HeyEbb target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
 										</p>
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Kieran.Flitton@TeamSicarius.com</p>		
 									</section>
@@ -387,7 +387,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Ryan Smith</p>									
-     								 	<button id="RyanClose" class="delete" aria-label="close"></button>
+     								 	<button style="background-color= rgba(10, 10, 10, 0);" id="RyanClose" class="delete" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">Software Developer</p>									
 									</header>
 									
@@ -402,8 +402,8 @@
 									<section style="display: inline-grid; text-align: center; padding-top: 0px;"class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
-											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ryan-smith-049194b2><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/ryan-smith-049194b2 target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
 										</p>
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Ryan.Smith@TeamSicarius.com</p>		
 									</section>
@@ -434,7 +434,7 @@
   								<div style="width: 400px; border-radius: 5px;" class="modal-card">
    									 <header style="display: inline;" class="modal-card-head">
      								 	<p style="color: #5a5a5a !important; font-family: adam;" class="modal-card-title">Matthew Longstaff</p>									
-     								 	<button id="MatthewClose" class="delete" aria-label="close"></button>
+     								 	<button style="background-color= rgba(10, 10, 10, 0);" id="MatthewClose" class="delete" aria-label="close"></button>
 										<p style="color: #5a5a5a !important; font-family: adamlight; font-size: 1em; padding-top: 10px;" class="modal-card-title">System Architect</p>									
 									</header>
 									
@@ -449,8 +449,8 @@
 									<section style="display: inline-grid; text-align: center; padding-top: 0px;"class="modal-card-body">
 										<p style="color: #5a5a5a !important; font-family: adam; font-size: 1.2em; padding-bottom: 15px;" class="modal-card-title">Social Links</p>
 										<p style="padding-bottom: 5px;">
-											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/matthew-longstaff-9b769312b><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
-											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
+											<a style="margin-right: 5px;" href=https://www.linkedin.com/in/matthew-longstaff-9b769312b target="_blank"><img style="height: 25px; max-width: 100%;" src=images/li.png alt="Link to Sicarius Facebook Page"></a>
+											<a style="margin-left: 5px; margin-right: 0px;" href=https://github.com/ryexsmith target="_blank"><img style="height: 20px; max-width: 100%;" src=/images/gh.png alt="Link to Sicarius Twitter Page"></a>
 										</p>
 										<p style="padding-top: 25px;" id="ModalDescription" class="modal-card-title">Matthew.Longstaff@TeamSicarius.com</p>		
 									</section>
