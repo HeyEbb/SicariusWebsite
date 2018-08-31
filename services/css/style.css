@@ -24,3 +24,6 @@
     right: 1.125em;
 }
 
+.transparentNavBar {
+    background-color: none !important;
+}
