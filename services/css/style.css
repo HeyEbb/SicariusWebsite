@@ -26,10 +26,3 @@
     right: 1.125em;
 }
 
-$color1:teal;
-$cloudColor:#ecf0f1;
-
-#bigHalfCircle path {
-	fill: darken($color1, 7%);
-	stroke: darken($color1, 7%);
-}
